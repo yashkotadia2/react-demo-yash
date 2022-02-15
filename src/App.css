@@ -1,5 +1,19 @@
 .App {
+  padding: 25px;
+  margin: 150px auto;
   text-align: center;
+  background-color: #d3d3d3;
+  width: 30%;
+}
+
+.randomText
+{
+  align-items: center;
+  width: 15%;
+  margin: 20px auto;
+  text-align: center;
+  background-color: #ffffff;
+  font-size:xx-large;
 }
 
 .App-logo {
