@@ -1,4 +1,32 @@
+#App description
+
+Weather App
+
+This is the perfect React project for beginners. It is a straightforward project – you can code it in a matter of a few hours! In this project, you have to build a weather app that can display a 5-day weather forecast. For this app, you can leverage fake, hard-coded data until you get all the features correct.
+
+The weather app must have all the basic functions, including city name, current weather icon, temperature, humidity, wind speed, etc. It must display the recording of both high and low temperatures of each day, including apt images for sunny/rainy/cloudy/snowy weather conditions. It should have a responsive design and refresh every five minutes with the exact temperature and weather conditions.
+
+Once you get the key functionalities in place, you can further expand the app in the following ways:
+
+Include the functionality wherein the user can click on a particular day of the week to see the hourly forecast.
+Add React Router to the app (npm install react-router). Check out the quickstart guide to add routes. For instance, routes that can display the 5-day forecast, along with the name-of-day and the hourly forecast for that day. 
+Sign up on the Open Weather Map to obtain a free API key and to fetch a 5-day forecast. Then feed this data in your app. 
+If you wish to make the app even fancier, you can add a graphics library like vx. You can check out these vx examples for inspiration.
+While developing this weather app, you will learn how to connect to an external API and display the appropriate results. This practical skill will come in very handy when you develop other kinds of single-page apps that are designed to fetch data from external sources and display the outcomes.
+
+
+
+Source 
+
+Technologies you can use:
+
+Node.js and Bower are two excellent options for this app.
+You can use Gulp Task Runner and SASS CSS pre-processor.
+You can check out  Erik Flowers for weather icons, and for “require” modules, you can use Browserify.
+
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 123
